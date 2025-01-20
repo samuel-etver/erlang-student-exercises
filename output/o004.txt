@@ -1,0 +1,9 @@
+Input: [4]
+Maximum: 4
+---
+Input: [1,7,2,-3,5,0]
+Maximum: 7
+---
+Input: [-1,-9,-4]
+Maximum: -1
+---

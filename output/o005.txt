@@ -1,0 +1,5 @@
+4 is member of []: false
+3 is member of [1,7,2,-3,5,0]: false
+-3 is member of [1,7,2,-3,5,0]: true
+oak is member of [fur,pine,oak,ash,willow,maple]: true
+elm is member of [fur,pine,oak,ash,willow,maple]: false
