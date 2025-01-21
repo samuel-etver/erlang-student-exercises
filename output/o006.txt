@@ -1,0 +1,5 @@
+Parity of 12: even
+Parity of 41: odd
+Parity of 8: even
+Parity of 5: odd
+

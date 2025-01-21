@@ -1,0 +1,6 @@
+Is length of list [] even? true
+Is length of list [] odd? false
+Is length of list [1,2,3,4,5,6,7] even? false
+Is length of list [1,2,3,4,5,6,7] odd? true
+Is length of list [tulip,rose,chamomile,marigold] even? true
+Is length of list [tulip,rose,chamomile,marigold] odd? false
