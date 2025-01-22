@@ -1,0 +1,12 @@
+Input: X = 1, L = []
+Result: []
+---
+Input: X = 4, L = [1,2,3,4,5,6,7]
+Result: [1,2,3,5,6,7]
+---
+Input: X = james, L = [mike,james,bob,greg,john]
+Result: [mike,bob,greg,john]
+---
+Input: X = jane, L = [jane,ann,natasha]
+Result: [ann,natasha]
+---
