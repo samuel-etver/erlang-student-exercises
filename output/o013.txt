@@ -1,0 +1,5 @@
+Is list [0,1,7,9,50] ordered? true
+Is list [1,2,3,8,5,6,7] ordered? false
+Is list [10] ordered? true
+Is list [7,6,9] ordered? false
+
