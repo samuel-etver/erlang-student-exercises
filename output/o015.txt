@@ -1,0 +1,9 @@
+Input: [0,1,7,9,5]
+Result: [zero,one,seven,nine,five]
+---
+Input: [1,2,3,8,5,6,7]
+Result: [one,two,three,eight,five,six,seven]
+---
+Input: [1]
+Result: [one]
+---
