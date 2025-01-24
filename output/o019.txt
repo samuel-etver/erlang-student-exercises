@@ -1,0 +1,5 @@
+Fibonacci sequence of 0: [0]
+Fibonacci sequence of 1: [0,1]
+Fibonacci sequence of 5: [0,1,1,2,3,5]
+Fibonacci sequence of 8: [0,1,1,2,3,5,8,13,21]
+Fibonacci sequence of 11: [0,1,1,2,3,5,8,13,21,34,55,89]
