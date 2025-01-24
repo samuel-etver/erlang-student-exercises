@@ -1,0 +1,4 @@
+Factorial of 5: 120
+Factorial of 0: 1
+Factorial of 8: 40320
+Factorial of 3: 6
