@@ -1,0 +1,5 @@
+List [2] is sublist of [1,2,3]: true
+List [b,c] is sublist of [a,b,d,c]: false
+List [b,a] is sublist of [a,b,b,a,c]: true
+List [a,b,c] is sublist of [a,b,b,c,e,d]: false
+
