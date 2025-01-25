@@ -1,0 +1,45 @@
+Input:  [a]
+Result:
+    1: [a]
+---
+Input:  [a,b]
+Result:
+    1: [a,b]
+    2: [b,a]
+---
+Input:  [a,b,c]
+Result:
+    1: [c,a,b]
+    2: [c,b,a]
+    3: [b,c,a]
+    4: [b,a,c]
+    5: [a,b,c]
+    6: [a,c,b]
+---
+Input:  [a,b,c,d]
+Result:
+    1: [d,c,a,b]
+    2: [d,c,b,a]
+    3: [d,b,c,a]
+    4: [d,b,a,c]
+    5: [d,a,b,c]
+    6: [d,a,c,b]
+    7: [c,b,d,a]
+    8: [c,b,a,d]
+    9: [c,a,b,d]
+    10: [c,a,d,b]
+    11: [c,d,a,b]
+    12: [c,d,b,a]
+    13: [b,a,c,d]
+    14: [b,a,d,c]
+    15: [b,d,a,c]
+    16: [b,d,c,a]
+    17: [b,c,d,a]
+    18: [b,c,a,d]
+    19: [a,d,b,c]
+    20: [a,d,c,b]
+    21: [a,c,d,b]
+    22: [a,c,b,d]
+    23: [a,b,c,d]
+    24: [a,b,d,c]
+---
