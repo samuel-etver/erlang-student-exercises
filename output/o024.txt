@@ -1,0 +1,6 @@
+List [] is subset of [1,2,3]: true
+List [7,8] is subset of [1,9,8,7]: true
+List [b,e] is subset of [a,b,d,c]: false
+List [1,2,3] is subset of [1,5,8,3,6,9]: false
+List [a,b,c] is subset of [a,b,b,c,e,d]: true
+
