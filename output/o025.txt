@@ -1,0 +1,16 @@
+Input: [1,-2,3,-4,5]
+Positive: [1,3,5]
+Negative: [-2,-4]
+---
+Input: [1,-9,-8,-7]
+Positive: [1]
+Negative: [-9,-8,-7]
+---
+Input: [1,5,-8,3,6,9]
+Positive: [1,5,3,6,9]
+Negative: [-8]
+---
+Input: [1,2,3]
+Positive: [1,2,3]
+Negative: []
+---
