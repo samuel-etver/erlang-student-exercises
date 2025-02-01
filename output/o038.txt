@@ -1,0 +1,9 @@
+Input:  L=[1,2,3,4,5,6], SubSum=9
+Result: [1,2,6]
+---
+Input:  L=[1,2,3,4,5,6], SubSum=21
+Result: [1,2,3,4,5,6]
+---
+Input:  L=[1,2,3,4,5,6], SubSum=40
+Result: []
+---
