@@ -1,0 +1,13 @@
+Input:  [m,a,d,a,m]
+Result: true
+---
+Input:  [d,a,d]
+Result: true
+---
+Input:  [c,a,t]
+Result: false
+---
+Input:  [t,a,c,o]
+Result: false
+---
+
