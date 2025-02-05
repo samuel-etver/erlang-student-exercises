@@ -1,0 +1,10 @@
+John is parent of Ann.
+Lucas is parent of Brenda.
+Emily is parent of Ann.
+Harold is parent of Lilo.
+Laura is parent of Carol.
+Joanne is parent of Thomas.
+Jessica is parent of Brenda.
+Mary is parent of Thomas.
+Bill is parent of James.
+
