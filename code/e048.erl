@@ -13,7 +13,7 @@ start_timer(Count) ->
     timer:apply_after(1000, fun on_timer/1, [Count]).
 
 
-on_timer(Count) when Count == 10 ->
+on_timer(10) ->
     ok;
 on_timer(Count)->
     start_timer(Count + 1),
